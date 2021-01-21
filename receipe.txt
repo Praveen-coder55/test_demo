@@ -4,4 +4,8 @@ Idli
 Vada
 Dosa
 
+
+Non Veg
+Chicken 
+
 done with my current version
